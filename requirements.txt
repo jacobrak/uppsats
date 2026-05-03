@@ -3,3 +3,4 @@ pandas==2.2.2
 scikit-learn==1.4.2
 statsmodels==0.14.0
 ipykernel==7.2.0
+matplotlib.pyplot==3.10.9
